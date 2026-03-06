@@ -1,0 +1,21 @@
+{
+  "analyzedResources": "ar-",
+  "apiManagementService": "apim-",
+  "appConfigurationStores": "appcs-",
+  "appContainerApps": "ca-",
+  "appManagedEnvironments": "cae-",
+  "cognitiveServicesAccounts": "cog-",
+  "containerRegistryRegistries": "cr",
+  "cosmosDBDatabaseAccounts": "cosmos-",
+  "documentDBDatabaseAccounts": "cosmos-",
+  "insightsComponents": "appi-",
+  "keyVaultVaults": "kv-",
+  "machineLearningServicesWorkspaces": "mlw-",
+  "managedIdentityUserAssignedIdentities": "id-",
+  "networkPrivateEndpoints": "pe-",
+  "networkVirtualNetworks": "vnet-",
+  "operationalInsightsWorkspaces": "log-",
+  "resourcesResourceGroups": "rg-",
+  "searchSearchServices": "srch-",
+  "storageStorageAccounts": "st"
+}
